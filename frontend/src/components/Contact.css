@@ -1,0 +1,10 @@
+tr {
+    background-color: #fff;
+    border-bottom: 0px solid #ccc;
+    font-size: 14px;
+}
+
+td {
+    padding: 30px;
+    font-size: 14px;
+}
